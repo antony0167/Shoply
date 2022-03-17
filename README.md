@@ -1,7 +1,7 @@
 # Projekt w języku skryptowym
 
 **Tytuł:**  
- Shoply
+ Zakupoholik
 
 **Języki i frameworki z których planuję skorzystać:**
 - HTML
