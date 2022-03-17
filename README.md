@@ -4,12 +4,12 @@
 Shoply
 
 **Języki i frameworki z których planuję skorzystać:**
--HTML
--CSS
--JavaScript
--React
--PHP
--SQLite
+- HTML
+- CSS
+- JavaScript
+- React
+- PHP
+- SQLite
 
 **Opis:**
 Moim projektem będzie sklep internetowy z. Po wejściu na stronę będzie należało się
