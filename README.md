@@ -1,7 +1,7 @@
-# Shoply
+# Projekt w języku skryptowym
 
-#Tytuł:
-##Shoply
+**Tytuł:**
+Shoply
 
 **Języki i frameworki z których planuję skorzystać:**
 -HTML
